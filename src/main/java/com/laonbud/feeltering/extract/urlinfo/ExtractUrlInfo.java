@@ -10,6 +10,7 @@ import org.jsoup.nodes.Document;
  * @author s1
  *	title, description, image, text extract
  *	return UrlInfo object
+ *	2016_04_27
  */
 
 public class ExtractUrlInfo {
